@@ -4,8 +4,9 @@ DNMidniteVM
 
 username: cloud
 
+use dntest.ppk in putty to access the server, with user cloud
 
-use dntest.pem file to access the server, use putty and find out how to pass the pem file.
+Instructions, how to use .ppk file in putty.
  
 username: cloud
 password: TmRkV3r1z0ncl0ud!
