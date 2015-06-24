@@ -1,0 +1,20 @@
+Server Name:
+DNMidniteVM
+208.39.116.239
+
+username: cloud
+
+
+use dntest.pem file to access the server, use putty and find out how to pass the pem file.
+ 
+username: cloud
+password: TmRkV3r1z0ncl0ud!
+
+* Note that the cloud password is set to expire every 24 hours post deployment *
+
+The password expiration can be disabled by executing the following command:
+
+sudo chage -M 99999 cloud
+
+
+
